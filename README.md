@@ -1,3 +1,3 @@
-# AutoCount, Detection, and Classification using Yolov4
+# Vehicle Count, Detection, and Classification using Yolov4
 
 Project is in progess....
