@@ -1,3 +1,3 @@
-# Vehicle Count, Detection, and Classification using Yolov4
+# Enhancing Urban Planning with Automated Vehicle Detection and Counting: An Application of YOLOv4 and Deep SORT
 
 Project is in progess....
